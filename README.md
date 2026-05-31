@@ -1,17 +1,17 @@
-# 中文 Agent 工具链
+# 中文Agent工具链
 
-[![HTML](https://img.shields.io/badge/HTML-standalone-orange)]()
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-blue)]()
+Agent工具不知道怎么组合？
+**可视化展示帮你规划工具链。**
 
-中文 AI Agent 工具链展示与组合可视化工具。
+[![HTML](https://img.shields.io/badge/打开即用-无需安装-orange)]()
 
-## 功能
+## 工具链不再"乱配"
 
-- **工具展示**：各 Agent 工具功能概述
-- **组合可视化**：4 种组合场景的节点流程图
+- **工具展示**：各Agent工具功能概述
+- **组合可视化**：4种组合场景节点流程图
 - **场景推荐**：按需求推荐工具组合
 - **交互式探索**：点击节点查看详情
 
-## 使用
+## 怎么用
 
-打开 `tool_showcase.html` 即可使用。
+打开 `tool_showcase.html` → 浏览工具 → 查看组合方案
